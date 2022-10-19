@@ -1,3 +1,12 @@
+#datm
+# Hugo_Symbol variable  value
+# CEBPA    t_vaf 0.4286
+# CEBPA    t_vaf 0.3077
+# CEBPA    t_vaf 0.0000
+# CEBPA    t_vaf 0.0000
+# CEBPA    t_vaf 0.2593
+# CEBPA    t_vaf 0.4196
+
 datm <- readRDS("./box_plot_input.RDS")
 bcol = c(
   "#1B9E77",
